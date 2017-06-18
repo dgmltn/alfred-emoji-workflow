@@ -780,6 +780,7 @@ RELATED_WORDS = {
   'telescope' => ['stars', 'space'],
   'tennis' => ['sports', 'balls', 'green'],
   'tent' => ['photo', 'camp', 'outdoors'],
+  'thinking_face' => ['hmm'],
   'thought_balloon' => ['bubble', 'cloud', 'speech'],
   'three' => ['3', 'numbers', 'prime', 'blue-square'],
   'thumbsdown' => [],

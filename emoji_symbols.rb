@@ -762,6 +762,7 @@ EMOJI_SYMBOLS = {
   :telescope => '🔭',
   :tennis => '🎾',
   :tent => '⛺',
+  :thinking_face => '🤔',
   :thought_balloon => '💭',
   :three => '3',
   :thumbsdown => '👎',
