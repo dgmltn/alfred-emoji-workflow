@@ -282,6 +282,7 @@ RELATED_WORDS = {
   'eyeglasses' => ['fashion', 'accessories'],
   'eyes' => ['look', 'watch', 'stalk', 'peek'],
   'facepunch' => ['angry', 'violence', 'fist', 'hit', 'attack'],
+  'face_with_rolling_eyes' => ['eyeroll', 'eye-roll', 'roll-eyes'],
   'factory' => ['building'],
   'fallen_leaf' => ['nature', 'plant', 'vegetable', 'leaves'],
   'family' => ['home', 'parents', 'child', 'mom', 'dad', 'father', 'mother'],

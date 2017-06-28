@@ -280,6 +280,7 @@ EMOJI_SYMBOLS = {
   :eyeglasses => '👓',
   :eyes => '👀',
   :facepunch => '👊',
+  :face_with_rolling_eyes => '🙄',
   :factory => '🏭',
   :fallen_leaf => '🍂',
   :family => '👪',
